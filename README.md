@@ -139,6 +139,6 @@ Ich habe schon in jungen Jahren angefangen, mich mit Computern zu beschäftigen 
 - 📧 ئیمەیل: hemin.sofy@icloud.com
 - 💼 [لينكد ئین](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/)
 - 💼 [Facebook](https://www.facebook.com/profile.php?id=100063539784981))
-- 🌐 [وێبسایت](https://xyz2024.school
+- 🌐 [وێبسایت](https://xyz2024.school)
 ## ⚡ ڕاستییەکی خۆش
 من لە تەمەنێکی بچووکەوە دەستم بە کارکردن کردووە لەبواری کۆمپیوتەر وە لەو کاتەوە خولیای تەکنەلۆژیام هەیە!
