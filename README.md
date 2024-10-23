@@ -1,3 +1,7 @@
+
+![Hama Saeed_6x6](https://github.com/user-attachments/assets/6fb6bcd9-f6ca-4b74-9e59-72a53e853839)
+
+
 # 🇬🇧 
 
 # 👋 Hi, I'm Hama Saeed
