@@ -65,8 +65,8 @@ Ich erweitere meine Fähigkeiten in der iOS-App-Entwicklung und Swift-Programmie
 
 ## 📫 So erreicht man mich
 - 📧 E-Mail: hemin.sofy@icloud.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/)
-- 💼 [Facebook] (https://www.facebook.com/profile.php?id=100063539784981)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/))
+- 💼 [Facebook] (https://www.facebook.com/profile.php?id=100063539784981))
 - 🌐 [Portfolio](https://xyz2024.school)
 
 ## ⚡ Fun Fact
@@ -138,6 +138,7 @@ Ich habe schon in jungen Jahren angefangen, mich mit Computern zu beschäftigen 
 ## 📫 بەم شێوەیە دەتوانیت بگەیتە من
 - 📧 ئیمەیڵ: hemin.sofy@icloud.com
 - 💼 [لینکدئین](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/)
+- - 💼 [Facebook] (https://www.facebook.com/profile.php?id=100063539784981))
 - 🌐 [پۆرتفۆلیۆ](https://xyz2024.school)
 
 ## ⚡ ڕاستییەکی خۆش
