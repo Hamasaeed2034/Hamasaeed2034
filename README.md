@@ -101,7 +101,7 @@ Ich habe schon in jungen Jahren angefangen, mich mit Computern zu beschäftigen 
 ## 📫 كيفية التواصل معي
 - 📧 البريد الإلكتروني: hemin.sofy@icloud.com
 - 💼 [لينكد إن](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/)
-- 💼 [Facebook] (https://www.facebook.com/profile.php?id=100063539784981))
+- 💼 [Facebook](https://www.facebook.com/profile.php?id=100063539784981))
 - 🌐 [الموقع الشخصي](https://xyz2024.school)
 
 ## ⚡ معلومة طريفة
@@ -138,7 +138,8 @@ Ich habe schon in jungen Jahren angefangen, mich mit Computern zu beschäftigen 
 ## 📫 بەم شێوەیە دەتوانیت بگەیتە من
 - 📧 ئیمەیڵ: hemin.sofy@icloud.com
 - 💼 [لینکدئین](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/)
-- - 💼 [Facebook] ((https://www.facebook.com/profile.php?id=100063539784981)
+
+- 💼 [Facebook](https://www.facebook.com/profile.php?id=100063539784981))
 - 🌐 [پۆرتفۆلیۆ](https://xyz2024.school)
 
 ## ⚡ ڕاستییەکی خۆش
