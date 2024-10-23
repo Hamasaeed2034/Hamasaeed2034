@@ -124,7 +124,6 @@ Ich habe schon in jungen Jahren angefangen, mich mit Computern zu beschäftigen 
 #########################################################################################
 
 
-#![kuFlag](https://github.com/user-attachments/assets/0416c8bc-6662-49a0-a546-43ef3e4ff332)
 
 # 👋 سڵاو من (حەمە سەعید)م
 ## 🏆 دەربارەی من
