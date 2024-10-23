@@ -136,11 +136,9 @@ Ich habe schon in jungen Jahren angefangen, mich mit Computern zu beschäftigen 
 - پرۆژەی دیزاین و UX بۆ وێب و مۆبایل
 
 ## 📫 بەم شێوەیە دەتوانیت بگەیتە من
-- 📧 ئیمەیڵ: hemin.sofy@icloud.com
-- 💼 [لینکدئین](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/)
-
+- 📧 ئیمەیل: hemin.sofy@icloud.com
+- 💼 [لينكد ئین](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/)
 - 💼 [Facebook](https://www.facebook.com/profile.php?id=100063539784981))
-- 🌐 [پۆرتفۆلیۆ](https://xyz2024.school)
-
+- 🌐 [وێبسایت](https://xyz2024.school
 ## ⚡ ڕاستییەکی خۆش
 من لە تەمەنێکی بچووکەوە دەستم بە کارکردن کردووە لەبواری کۆمپیوتەر وە لەو کاتەوە خولیای تەکنەلۆژیام هەیە!
