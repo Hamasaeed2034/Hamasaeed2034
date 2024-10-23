@@ -13,6 +13,10 @@ I'm a seasoned professional with over 15 years of experience in Design, Hardware
 
 ## 🚀 Skills
 - UX/UI Design (Figma)
+- Photoshop
+- Illustrator
+- MS Office
+- Web Design
 - Hardware Configuration and Troubleshooting
 - Windows OS and iOS Administration
 - App Prototyping and Design
@@ -51,6 +55,10 @@ Ich bin ein erfahrener Profi mit über 15 Jahren Erfahrung in Design, Hardware, 
 
 ## 🚀 Fähigkeiten
 - UX/UI-Design (Figma)
+- Photoshop
+- Illustrator
+- MS Office
+- Web Design
 - Hardware-Konfiguration und -Fehlerbehebung
 - Windows-OS- und iOS-Administration
 - App-Prototyping und -Design
@@ -86,6 +94,10 @@ Ich habe schon in jungen Jahren angefangen, mich mit Computern zu beschäftigen 
 
 ## 🚀 المهارات
 - تصميم UX/UI (فيجما)
+- فوتوشوب
+- إليستريتور
+- مايكروسوفت أوفيس
+- تصميم الويب
 - تهيئة الأجهزة وحل المشاكل
 - إدارة أنظمة التشغيل ويندوز وiOS
 - تصميم النماذج الأولية للتطبيقات
@@ -123,6 +135,10 @@ Ich habe schon in jungen Jahren angefangen, mich mit Computern zu beschäftigen 
 
 ## 🚀 لێهاتوویی
 - دیزاینی UX/UI (Figma)
+- فۆتۆشۆپ
+- ئیلوستریتۆر
+- ئۆفیس Microsoft
+- دیزاینی وێب
 - ڕێکخستنی ڕەقەکاڵا و چارەسەرکردنی کێشەکان
 - بەڕێوەبردنی سیستەمی کارپێکردنی ویندۆز و ئای ئۆ ئێس
 - پرۆتۆتایپی ئەپ و دیزاین
