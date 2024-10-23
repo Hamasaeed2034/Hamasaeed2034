@@ -28,7 +28,7 @@ I'm expanding my skills in iOS app development and Swift programming to compleme
 ## 📫 How to Reach Me
 - 📧 Email: hemin.sofy@icloud.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/hemn-abdalla-hama-saeed-23100252/))
-- 💼 [Facebook] (https://www.facebook.com/profile.php?id=100063539784981)
+- 💼 [Facebook](https://www.facebook.com/profile.php?id=100063539784981)
 - 🌐 [Portfolio](https://xyz2024.school)
 
 ## ⚡ Fun Fact
