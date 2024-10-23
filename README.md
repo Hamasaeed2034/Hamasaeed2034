@@ -18,7 +18,7 @@ I'm a seasoned professional with over 15 years of experience in Design, Hardware
 - App Prototyping and Design
 
 ## 🌱 Currently Learning
-I'm expanding my skills in iOS app development and Swift programming to complement my design and hardware expertise.
+I'm expanding my skills in iOS app development and Swift programming to complement my design and Software expertise.
 
 ## 👯 Looking to Collaborate On
 - iOS app development projects
@@ -56,7 +56,7 @@ Ich bin ein erfahrener Profi mit über 15 Jahren Erfahrung in Design, Hardware, 
 - App-Prototyping und -Design
 
 ## 🌱 Ich lerne gerade
-Ich erweitere meine Fähigkeiten in der iOS-App-Entwicklung und Swift-Programmierung, um mein Design- und Hardware-Wissen zu ergänzen.
+Ich erweitere meine Fähigkeiten in der iOS-App-Entwicklung und Swift-Programmierung, um mein Design- und Software-Wissen zu ergänzen.
 
 ## 👯 Ich suche nach Kooperationen
 - iOS-App-Entwicklungsprojekte
